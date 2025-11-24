@@ -155,7 +155,7 @@ requestAnimationFrame(function animate() {
 
 ## 🔌 Used by
 
-- [iR Engine](https://github.com/ir-engine/ir-engine)
+- [Enchantment Engine](https://github.com/EnchantmentEngine/EnchantmentEngine)
 - [Third Room](https://github.com/thirdroom/thirdroom)
 - [Hubs](https://github.com/Hubs-Foundation/hubs)
 
